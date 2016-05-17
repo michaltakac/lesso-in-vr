@@ -6,6 +6,9 @@
   },
   "dependencies": {
     "aframe": "^0.2.0",
+    "aframe-core": "^0.1.6",
+    "aframe-obj-loader-component": "^0.2.0",
+    "aframe-react": "^2.0.0",
     "autoprefixer": "^6.3.6",
     "babel-cli": "^6.8.0",
     "babel-core": "^6.8.0",
@@ -49,7 +52,7 @@
     "postcss-loader": "^0.9.1",
     "postcss-pseudoelements": "^3.0.0",
     "postcss-selector-not": "^2.0.0",
-    "react": "^15.0.2",
+    "react": "15.0.2",
     "react-aframe": "^1.0.0",
     "react-app": "^1.0.0-alpha.3",
     "react-dom": "^15.0.2",

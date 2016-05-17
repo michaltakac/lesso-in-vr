@@ -12,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     JavaScript, HTML5, CSS3
-    React, Babel, Material Design Lite (MDL)
+    React, Babel, A-frame
